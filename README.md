@@ -8,3 +8,11 @@ Foi interessante ver como tudo se conecta: desde analisar textos até criar resp
 Aprendi como a Solução de Pesquisa Cognitiva do Azure atua nesse processo, permitindo que a IA identifique padrões, palavras-chave e entidades relevantes dentro de documentos. O conceito de enriquecimento de IA fez muito sentido pra mim, pois mostra como a tecnologia pode ir além da simples leitura e realmente compreender os dados.
 As buscas cognitivas foram outro ponto que me chamou atenção — a ideia de que é possível encontrar informações com mais precisão e contexto, graças à interpretação inteligente da IA, amplia bastante as possibilidades em projetos que lidam com muitos dados.
 Com esse aprendizado, pude refletir sobre como essas soluções podem ser aplicadas para facilitar o acesso à informação em ambientes corporativos, acadêmicos ou mesmo em sistemas automatizados. Foram muitos insights sobre o papel da IA na organização do conhecimento e no apoio à tomada de decisões.
+
+3-Neste laboratório, aprendi sobre a importância da IA Generativa responsável — como usar essas tecnologias de forma ética e consciente, pensando nos impactos e nas possibilidades que elas trazem para o futuro.
+Conheci o Microsoft Copilot, uma ferramenta que integra inteligência artificial para ajudar no dia a dia, facilitando tarefas e potencializando a produtividade, seja no trabalho ou no estudo.
+Também explorei as diversas possibilidades do Microsoft Learning, que mostram como a IA pode ser usada para personalizar o aprendizado, criando experiências mais eficientes e adaptadas às necessidades de cada pessoa.
+Entender o desafio proposto me fez refletir sobre como aplicar esses conceitos na prática, sempre considerando responsabilidade, transparência e segurança no uso da IA generativa.
+Esse laboratório abriu meus olhos para o potencial transformador dessas tecnologias, mas também para a necessidade de usá-las com cuidado e ética.
+
+ps: essa anotaçoes estava no meu whats, so fui adc de acordo com os labs e enumerando
